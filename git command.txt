@@ -1,1 +1,3 @@
 this file has git command
+
+git --version check the version command
