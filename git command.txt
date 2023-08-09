@@ -1,3 +1,7 @@
 this file has git command
 
-git --version check the version command
+git --version     -------- check the version command
+git status        ------- check the status of file and show the result if any change in file which are pending in repository
+
+git init   -----------this will initialize the reposiory (repository is something like folder with files)
+
