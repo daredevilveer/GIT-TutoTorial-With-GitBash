@@ -1,7 +1,21 @@
 this file has git command
 
+set the user name and email id to git
+
+git global user.name "beerpal" ----
+git global user.emailid "beerp.sing@gmail.com"    ------
+
+
+
 git --version     -------- check the version command
-git status        ------- check the status of file and show the result if any change in file which are pending in repository
+git status        ------- check the status of repository file and show the result if any change in file which are pending in repository for               	                  commit
 
 git init   -----------this will initialize the reposiory (repository is something like folder with files)
+
+
+git add . ------this command will stage the file to commit 
+
+git commit -m "version 1" -------this will commit the changes in file with version name.()save the file to final stage
+
+git log  ----this shows who have changes the file in repository
 
