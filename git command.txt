@@ -19,3 +19,18 @@ git commit -m "version 1" -------this will commit the changes in file with versi
 
 git log  ----this shows who have changes the file in repository
 
+Now add gitBash to GitHub
+
+Create the Repository in GitHub(internet)
+than 
+
+
+…or create a new repository on the command line
+echo "# GIT-TutoTorial-With-GitBash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/daredevilveer/GIT-TutoTorial-With-GitBash.git
+git push -u origin main   
+
